@@ -4,10 +4,17 @@ def main():
     Use m_perc, f_perc, nb_perc for your results
     ##################################################
 
-    m_perc = int(input('Enter the amount of male students:'))
-    f_perc = int(input'"Enter the amount of female students:)')
-    nb_perc = int(input('Enter the amount of non-binary students:'))
+    m_num = int(input('Enter the number of male students:'))
+    f_num = int(input'"Enter the number of female students:)')
+    nb_num = int(input('Enter the number of non-binary students:'))
 
+    #
+    Calculate the percentages
+    #
+    class_size = 
+    m_perc = 
+    f_perc = 
+    nb_perc = 
 
 
     ########################################
